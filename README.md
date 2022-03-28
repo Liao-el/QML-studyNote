@@ -70,7 +70,9 @@ import './func.js' as Func
 ### 4.1、附加属性 Component —— 可附加到任何属性上去 （attached）
 
 > 附加信号：
+> 
 > completed() —— 组件完成时 —— Component.onCompleted: { // 组件完成时的操作 }
+> 
 > destruction() —— 组件销毁时 —— Component.onDestruction: { // 组件销毁时的操作 }
 
 ### 4.2、修改 listView 的 model 数据
