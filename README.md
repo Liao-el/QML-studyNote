@@ -1,5 +1,5 @@
 # QML-studyNote
-QML学习笔记资料 —— 学习过程中遇到的问题
+# QML学习笔记资料 —— 学习过程中遇到的问题
 [安装地址：https://download.qt.io/official_releases/online_installers/](https://download.qt.io/official_releases/online_installers/)
 
 ---
