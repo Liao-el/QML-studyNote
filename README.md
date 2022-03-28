@@ -7,11 +7,13 @@
 ## 1、创建项目空文件
 
 > windows 系统 —— 选择 **_MSVC_**
+> 
 > linux 系统 —— 选择 **_MinGW_**
 
 ## 2、QT 助手
 
 > Windows 下： C:\Qt\Qt[版本号]\[版本号]\mingw49_32\bin\assistant.exe
+> 
 > Mac 下： /Users/apple/Qt[版本号]/[版本号]/clang_64/bin/Assistant.app
 
 ### 2.1、基本模块介绍
