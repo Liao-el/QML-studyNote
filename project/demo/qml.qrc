@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fun.js</file>
+        <file>TestComponent.qml</file>
+        <file>Demo01.qml</file>
+        <file>Demo03.qml</file>
+        <file>Demo04.qml</file>
+        <file>Demo05.qml</file>
+        <file>Demo06.qml</file>
+        <file>Demo07.qml</file>
+        <file>Demo08.qml</file>
+        <file>Demo09.qml</file>
+        <file>Demo10.qml</file>
+        <file>Demo11.qml</file>
+    </qresource>
+</RCC>
